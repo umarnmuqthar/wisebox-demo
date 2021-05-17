@@ -1,0 +1,98 @@
+
+html {
+  scroll-behavior: smooth;
+}
+.logo-img {
+  width: 8rem;
+}
+#header{
+  background-color: white;
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); */
+}
+
+.topic-heading{
+  margin: 2rem 0;
+}
+
+/* Home */
+
+.bg-coins-display {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 500px;
+  width: 5rem;
+  height: 1.8rem;
+  background: #e6e6e6;
+}
+.wishing-student {
+  padding-top: 9rem;
+  height: 15rem;
+}
+
+/* Subjects */
+
+#subjects a {
+  text-decoration: none;
+  color: black;
+}
+.subject-card {
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+.subject-card + h5 {
+  margin: 0.7rem 0 1.5rem 0;
+}
+
+/* scroll */
+
+.scrolling-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-bottom: 2rem;
+}
+.scrolling-wrapper::-webkit-scrollbar {
+  display: none;
+}
+.featured-card {
+  flex: 0 0 auto;
+  border-radius: 10px;
+  height: 8rem;
+  margin: 0 0.5rem;
+  background: blueviolet;
+}
+
+/* share the app */
+
+.horizontal-bar{
+  display: flex;
+  align-items: center;
+  /* height: 6rem; */
+  background-color: orange;
+  border-radius: 18px;
+}
+.horizontal-bar a{
+  text-decoration: none;
+}
+
+.hbr-row{
+  height: inherit;
+  display: flex;
+  align-items: center;
+}
+.hbr-img{
+  margin: 0.5rem 0;
+  width: 4.5rem;
+  height: 4.5rem;
+  background: #fff;
+  
+}
+.hbr-text{
+  margin: 0.5rem 0 0.5rem 1.4rem;  
+  flex: 4;  
+  color: #fff;
+}
+.hbr-text p{
+  margin: 0;
+}
