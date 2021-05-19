@@ -13,14 +13,12 @@
 
 /* slab details */
 .slabs {
-  color: #fff;
-  background:linear-gradient(#029398,#27d9bd);
+  color: #029398;  
 
 }
 .slabs:hover {
   text-decoration: none;
   color: #fff;
-  /* background:linear-gradient(#03CF8F,#55FFCD); */
   background:linear-gradient(#029398,#27d9bd);
 }
 
