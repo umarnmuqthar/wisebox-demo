@@ -1,0 +1,38 @@
+/* subject name */
+.subject-details h1 {
+  margin: 0;
+  font-weight: bold;
+  background: -webkit-linear-gradient(left, #FF8716, #F5CF2C);
+  background: -o-linear-gradient(right, #FF8716, #F5CF2C);
+  background: -moz-linear-gradient(right, #FF8716, #F5CF2C);
+  background: linear-gradient(to right, #FF8716, #F5CF2C);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* slab details */
+.slabs {
+  color: #FF8716;
+
+}
+.slabs:hover {
+  text-decoration: none;
+  color: #fff;
+  background:linear-gradient(#FF8716,#F5CF2C);
+}
+
+/* back button */
+.back-link {
+  color: #FF8716;
+}
+.back-link:hover {
+  
+  /* color: #FF8716; */
+  color: #fff;
+  text-decoration: none;
+}
+.back-button:hover{
+  background:linear-gradient(to right,#FF8716,#F5CF2C);
+}
+

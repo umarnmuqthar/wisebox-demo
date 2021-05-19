@@ -1,16 +1,19 @@
-
 html {
   scroll-behavior: smooth;
 }
 .logo-img {
   width: 8rem;
 }
-#header{
+#header {
   background-color: white;
-  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); */
+  width: 100%;
+  /* position: fixed; */
+  z-index: 2;
 }
-
-.topic-heading{
+.header-container{
+  background-color: white;
+}
+.topic-heading {
   margin: 2rem 0;
 }
 
@@ -19,15 +22,36 @@ html {
 .bg-coins-display {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-around;  
   border-radius: 500px;
-  width: 5rem;
+  padding: 0.5rem;  
   height: 1.8rem;
-  background: #e6e6e6;
+  background: #f8f8f8;
+  position: fixed;
+  top: 0.7rem;
+  right: 1.2rem;
+  z-index: 4;
+}
+.bg-coins-display span{
+  margin-left: 0.7rem;
+  font-size: 1.2rem;
+  margin-bottom: 0.2rem;
+  
 }
 .wishing-student {
-  padding-top: 9rem;
-  height: 15rem;
+  margin-top: 11rem;
+  
+  /* height: 17rem; */
+}
+.wishing-student h2{
+  width: 80vw;
+}
+.home-screen-image {
+  width: 13rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
 }
 
 /* Subjects */
@@ -38,9 +62,9 @@ html {
 }
 .subject-card {
   border-radius: 20px;
-  box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 7px 0 rgba(0, 0, 0, 0.2);
 }
-.subject-card + h5 {
+.subject-card + h6 {
   margin: 0.7rem 0 1.5rem 0;
 }
 
@@ -52,9 +76,6 @@ html {
   overflow-x: auto;
   margin-bottom: 2rem;
 }
-.scrolling-wrapper::-webkit-scrollbar {
-  display: none;
-}
 .featured-card {
   flex: 0 0 auto;
   border-radius: 10px;
@@ -62,37 +83,47 @@ html {
   margin: 0 0.5rem;
   background: blueviolet;
 }
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrolling-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrolling-wrapper {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
 
 /* share the app */
 
-.horizontal-bar{
+.horizontal-bar {
   display: flex;
   align-items: center;
   /* height: 6rem; */
   background-color: orange;
   border-radius: 18px;
 }
-.horizontal-bar a{
+.horizontal-bar a {
   text-decoration: none;
 }
 
-.hbr-row{
+.hbr-row {
   height: inherit;
   display: flex;
   align-items: center;
 }
-.hbr-img{
+.hbr-img {
   margin: 0.5rem 0;
   width: 4.5rem;
   height: 4.5rem;
   background: #fff;
-  
 }
-.hbr-text{
-  margin: 0.5rem 0 0.5rem 1.4rem;  
-  flex: 4;  
+.hbr-text {
+  margin: 0.5rem 0 0.5rem 1.4rem;
+  flex: 4;
   color: #fff;
 }
-.hbr-text p{
+.hbr-text p {
   margin: 0;
 }
