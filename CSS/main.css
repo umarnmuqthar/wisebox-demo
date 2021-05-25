@@ -1,9 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
-.logo-img {
-  width: 8rem;
-}
+
 #header {
   background-color: white;
   width: 100%;
@@ -101,7 +99,7 @@ html {
   display: flex;
   align-items: center;
   /* height: 6rem; */
-  background-color: orange;
+  background:linear-gradient(to right,#FF7B00,#FF9800);
   border-radius: 18px;
 }
 .horizontal-bar a {

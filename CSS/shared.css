@@ -1,3 +1,23 @@
+@font-face {
+  font-family: "blogger-sans";
+  src: url(../fonts/blogger-sans.bold.otf);
+}
+.logo-img {
+  width: 8rem;
+}
+.logo-txt{
+  font-family: "blogger-sans";
+  background: -webkit-linear-gradient( #ffa204, #ff5d6c);
+  background: -o-linear-gradient( #ffa204, #ff5d6c);
+  background: -moz-linear-gradient( #ffa204, #ff5d6c);
+  background: linear-gradient(#ffa204, #ff5d6c);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2rem;
+  padding: 0 1rem;
+}
+
 #footer-nav {
   background-color: white;
   box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
