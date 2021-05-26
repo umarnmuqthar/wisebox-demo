@@ -1,110 +1,110 @@
 [
   {
-    "question": "In the majority of higher animals and plants, _____ and _____ are mutually exclusive events.",
-    "choice1": "growth; nutrition",
-    "choice2": "nutrition; consciousness",
-    "choice3": "growth; reproduction",
-    "choice4": "reproduction; consciousness",
-    "answer": 3,
-    "explanation": "Growth and reproduction are mutually exclusive events in the majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents."
-  },
-  {
-    "question": "In multicellular organisms _____ refers to the production of progeny possessing features more or less similar to those of parents.",
-    "choice1": "growth",
-    "choice2": "reproduction",
-    "choice3": "metabolism",
-    "choice4": "consciousness",
+    "question": "The keys are based on contrasting characters generally in a pair called _______.",
+    "choice1": "flora",
+    "choice2": "couplet",
+    "choice3": "both (a) and (b)",
+    "choice4": "manuals",
     "answer": 2,
-    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction."
+    "explanation": "The keys are based on contrasting characters generally in a pair called couplet."
   },
   {
-    "question": "The sum total of all the chemical reactions occurring in our body is known as ",
-    "choice1": "metabolism",
-    "choice2": "growth",
-    "choice3": "regeneration",
-    "choice4": "reproduction",
+    "question": "Herbarium is a",
+    "choice1": "garden where medicinal plants are grown.",
+    "choice2": "garden where herbaceous plants are grown.",
+    "choice3": "dry garden.",
+    "choice4": "chemical to kill plants.",
+    "answer": 3,
+    "explanation": "Herbarium is the storehouse of dead, dried, pressed and preserved plant specimens on paper sheets, called herbarium sheets. The herbarium sheets can be used as a quick reference for taxonomic studies."
+  },
+  {
+    "question": "The famous botanical garden ‘Kew’ is located in",
+    "choice1": "England",
+    "choice2": "Lucknow",
+    "choice3": "Berlin",
+    "choice4": "Australia",
     "answer": 1,
-    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and the sum total of all such chemical reactions occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes."
+    "explanation": "The famous botanical garden ‘Kew’ is located in England. It is an internationally important botanical research and education institution."
   },
   {
-    "question": "Cell division occurs _______ in plants and _______ in animals.",
-    "choice1": "continuously, only up to a certain age",
-    "choice2": "only up to a certain age, continuously",
-    "choice3": "continuously, never",
-    "choice4": "once, twice",
-    "answer": "1",
-    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
+    "question": "Which ofthe following taxonomic aids provides information for the identification of names of species found in an area?",
+    "choice1": "Monograph",
+    "choice2": "Manual",
+    "choice3": "Flora",
+    "choice4": "Periodical",
+    "answer": 2,
+    "explanation": "Manuals contain information for the identification of names of species found in an area. They also provide information about keys, description of family, genus and species."
   },
   {
-    "question": "Which of the following are unique features of living organisms?",
-    "choice1": "Growth and reproduction",
-    "choice2": "Reproduction and ability to sense environment",
-    "choice3": "Metabolism and interaction",
+    "question": "Which one of the taxonomic aids can give a comprehensive account of complete compiled information of any one genus or family at a particular time?",
+    "choice1": "Taxonomic key",
+    "choice2": "Flora",
+    "choice3": "Herbarium",
+    "choice4": "Monograph",
+    "answer": 4,
+    "explanation": "Monograph is a comprehensive taxonomy treatment of a taxonomic group, generally a genus or a family, providing all taxonomic data relating to the group."
+  },
+  {
+    "question": "Which one of the following taxonomical aid is used for identification of plants and animals based on similarities and dissimilarities?",
+    "choice1": "Flora",
+    "choice2": "Keys",
+    "choice3": "Monographs",
+    "choice4": "Catalogues",
+    "answer": 2,
+    "explanation": "Key is a taxonomical aid used for identification of plants and animals based on the similarities and dissimilarities."
+  },
+  {
+    "question": "Keys are generally _______ in nature.",
+    "choice1": "physical",
+    "choice2": "chemical",
+    "choice3": "analytical",
+    "choice4": "qualitative",
+    "answer": 3,
+    "explanation": "Key is a type of taxonomical aid used for the identification of plants and animals based on their similarities and dissimilarities. Keys are generally analytical in nature."
+  },
+  {
+    "question": "Which one of the following is not a correct statement?",
+    "choice1": "Botanical gardens have collections of living plants for reference.",
+    "choice2": "A museum has a collection of photographs of plants and animals.",
+    "choice3": "Key is a taxonomic aid for identification of specimens.",
+    "choice4": "Herbarium is a storehouse that contains dried, pressed and preserved plant specimens.",
+    "answer": 2,
+    "explanation": "Biological museums have a collection of preserved animals and plant specimens for study and references."
+  },
+  {
+    "question": "Which of the following statements are correct about herbarium?",
+    "choice1": "It is a store house of collected plant specimens that are dried and preserved on sheets.",
+    "choice2": "Herbarium sheets contain information about date and place of collection, names, family, collector’s name, etc.",
+    "choice3": "It serves as a quick referral system in taxonomic studies.",
     "choice4": "All of the above",
-    "answer": "4",
-    "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
+    "answer": 4,
+    "explanation": "Herbarium is a collection of plant parts that usually have been dried, pressed, preserved on sheets. The herbarium sheets also carry a label that provides information about date and place of collection."
   },
   {
-    "question": "Which of the following aspects is an exclusive characteristic of living things?",
-    "choice1": "Isolated metabolic reactions occur in vitro.",
-    "choice2": "Increase in mass from inside only.",
-    "choice3": "Perception of events happening in the environment and their memory.",
-    "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
-    "answer": "3",
-    "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
+    "question": "National Botanical Research Institute is located in",
+    "choice1": "Shimla",
+    "choice2": "Dehradun",
+    "choice3": "Howrah",
+    "choice4": "Lucknow",
+    "answer": 4,
+    "explanation": "National Botanical Research Institute is located in Lucknow"
   },
   {
-    "question": "Which of the following is not a characteristic of life?",
-    "choice1": "Reproduction",
-    "choice2": "Complex chemical organization",
-    "choice3": "Adaptation to environmental changes",
-    "choice4": "Differentiation from cells to tissues",
-    "answer": "4",
-    "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
+    "question": "After completing a project study based on the diversity of spiders, the specimens were intended to be stored for future reference. Select a suitable taxonomical and from the following for the preservation of specimens.",
+    "choice1": "Herbarium",
+    "choice2": "Museum",
+    "choice3": "Zoological park",
+    "choice4": "Sanctuary",
+    "answer": 2,
+    "explanation": "Museums have collections of preserved plant and animal specimens for study reference.specimens are preserved in containers or jars in preservative solutions"
   },
   {
-    "question": "Which of the following statement(s) is/are correct?",
-    "choice1": "Only living organisms grow.",
-    "choice2": "Plants grow only up to a certain age.",
-    "choice3": "The growth in living organisms is from inside.",
-    "choice4": "All of the above",
-    "answer": "3",
-    "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
-  },
-  {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In plants, growth by cell division is seen only up to a certain stage.",
-    "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
-    "choice3": "A multicellular organism grows by cell division.",
-    "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
-    "answer": "1",
-    "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
-  },
-  {
-    "question": "Which of the following statement(s) is/are correct for Metabolism?",
-    "choice1": "It is the sum total of all physical reactions taking place inside a living system.",
-    "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
-    "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
-    "choice4": "All of the above",
-    "answer": "2",
-    "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
-  },
-  {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In animals growth is seen up to a certain age.",
-    "choice2": "Increase in body mass is considered as growth.",
-    "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
-    "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
-    "answer": "3",
-    "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
-  },
-  {
-    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
-    "choice1": "Amoeba and Paramecium",
-    "choice2": "Fungi and filamentous algae",
-    "choice3": "Humans and Apes",
-    "choice4": "Mules and worker bees",
-    "answer": "4",
-    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+    "question": "Find the odd one out",
+    "choice1": "Herbarium",
+    "choice2": "Botanical garden",
+    "choice3": "Museum",
+    "choice4": "Aquarium",
+    "answer": 4,
+    "explanation": "Aquarium is not a taxonomical aid. All others are taxonomical aids"
   }
 ]

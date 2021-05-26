@@ -1,110 +1,128 @@
 [
   {
-    "question": "In the majority of higher animals and plants, _____ and _____ are mutually exclusive events.",
-    "choice1": "growth; nutrition",
-    "choice2": "nutrition; consciousness",
-    "choice3": "growth; reproduction",
-    "choice4": "reproduction; consciousness",
+    "question": "Each category of taxonomic hierarchy refers to a unit of ______.",
+    "choice1": "systematic",
+    "choice2": "identification",
+    "choice3": "nomenclature",
+    "choice4": "classification",
+    "answer": 4,
+    "explanation": "Taxonomic hierarchy is the sequence of arrangements of taxonomic categories in a descending order during the classification of organisms. Each category of taxonomic hierarchy refers to a unit of classification. Classification is the process by which anything is grouped into convenient categories based on some easily observable characters."
+  },
+  {
+    "question": "Taxon is a",
+    "choice1": "unit of classification.",
+    "choice2": "species",
+    "choice3": "highest rank of classification.",
+    "choice4": "group of closely related organisms.",
+    "answer": 4,
+    "explanation": "Taxon is a grouping of organisms of any level in hierarchical classification which is based on some common characteristics. It represents real biological objects placed in any category while category itself is an abstract term."
+  },
+  {
+    "question": "Families are characterized on which of the following features of plant species?",
+    "choice1": "External morphology",
+    "choice2": "Anatomy of parts",
+    "choice3": "Vegetative and reproductive parts",
+    "choice4": "Seasonal similarities and variations",
     "answer": 3,
-    "explanation": "Growth and reproduction are mutually exclusive events in the majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents."
+    "explanation": "A family is a subdivision of an order consisting of a group of related genera which in turn are composed of groups of related species. Families are characterized on the basis of vegetative and reproductive parts of the plant species."
   },
   {
-    "question": "In multicellular organisms _____ refers to the production of progeny possessing features more or less similar to those of parents.",
-    "choice1": "growth",
-    "choice2": "reproduction",
-    "choice3": "metabolism",
-    "choice4": "consciousness",
-    "answer": 2,
-    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction."
-  },
-  {
-    "question": "The sum total of all the chemical reactions occurring in our body is known as ",
-    "choice1": "metabolism",
-    "choice2": "growth",
-    "choice3": "regeneration",
-    "choice4": "reproduction",
+    "question": "<b>Statement 1</b> : Taxon and category are different things.<br> <b>Statement 2</b> : Category shows hierarchical classification.",
+    "choice1": "Statement- 1 and statement-2 are true and statement-2 is a correct explanation for statement -1",
+    "choice2": "Statement -1 and Statement -2 are true;statement-2 is not a correct explanation for statement – 1",
+    "choice3": "Statement – 1 is true and statement- 2 is false",
+    "choice4": "Both the statements are false.",
     "answer": 1,
-    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and the sum total of all such chemical reactions occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes."
+    "explanation": "A category is a rank or level in the hierarchical classification of organisms. Taxon is a unit in classification which may represent any level of grouping of organisms based on certain common characteristics. There is some confusion in the use of taxon and category, for example Bryophyta is a taxon while division is a category."
   },
   {
-    "question": "Cell division occurs _______ in plants and _______ in animals.",
-    "choice1": "continuously, only up to a certain age",
-    "choice2": "only up to a certain age, continuously",
-    "choice3": "continuously, never",
-    "choice4": "once, twice",
-    "answer": "1",
-    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
+    "question": "As we go from species to kingdom in a taxonomic hierarchy, the number of common characteristics",
+    "choice1": "Will decrease",
+    "choice2": "Will increase",
+    "choice3": "Remain same",
+    "choice4": "May increase or decrease",
+    "answer": 1,
+    "explanation": "As we go higher from species to kingdom, the number of common characteristics goes on decreasing. Lower the taxa, more are the characteristics that the members within the taxon share."
   },
   {
-    "question": "Which of the following are unique features of living organisms?",
-    "choice1": "Growth and reproduction",
-    "choice2": "Reproduction and ability to sense environment",
-    "choice3": "Metabolism and interaction",
-    "choice4": "All of the above",
-    "answer": "4",
-    "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
+    "question": "The taxonomic unit ‘Phylum’ in the classification of animals is equivalent to which hierarchical level in classification of plants.",
+    "choice1": "Class",
+    "choice2": "Order",
+    "choice3": "Division",
+    "choice4": "Family",
+    "answer": 3,
+    "explanation": "The taxonomic unit 'Phylum' in the classification of animals is equivalent to the taxonomic unit 'Division' in the classification of the plants."
   },
   {
-    "question": "Which of the following aspects is an exclusive characteristic of living things?",
-    "choice1": "Isolated metabolic reactions occur in vitro.",
-    "choice2": "Increase in mass from inside only.",
-    "choice3": "Perception of events happening in the environment and their memory.",
-    "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
-    "answer": "3",
-    "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
+    "question": "Two plants can be conclusively said to belong to the same species if they",
+    "choice1": "can reproduce freely with each other and form seeds.",
+    "choice2": "have more than 90 percent similar genes.",
+    "choice3": "look similar and possess identical secondary metabolites.",
+    "choice4": "have same number of chromosomes.",
+    "answer": 1,
+    "explanation": "Two plants can be conclusively said to belong to the same species; they can reproduce freely with each other and form seeds."
   },
   {
-    "question": "Which of the following is not a characteristic of life?",
-    "choice1": "Reproduction",
-    "choice2": "Complex chemical organization",
-    "choice3": "Adaptation to environmental changes",
-    "choice4": "Differentiation from cells to tissues",
-    "answer": "4",
-    "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
+    "question": "Which of the following statements is incorrect?",
+    "choice1": "The scientific name for humans is Homo sapiens.",
+    "choice2": "Organisms placed in the same genus are least closely related.",
+    "choice3": "Moving from species to kingdom, more  different species are included in each higher category.",
+    "choice4": "Species that are in the same genus share very specific characteristics.",
+    "answer": 2,
+    "explanation": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera. Organisms placed in the same genus are most closely related."
   },
   {
-    "question": "Which of the following statement(s) is/are correct?",
-    "choice1": "Only living organisms grow.",
-    "choice2": "Plants grow only up to a certain age.",
-    "choice3": "The growth in living organisms is from inside.",
-    "choice4": "All of the above",
-    "answer": "3",
-    "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
+    "question": "Solanum, Panthera, Homo are examples of",
+    "choice1": "Family",
+    "choice2": "Division",
+    "choice3": "Genera",
+    "choice4": "Species epithet",
+    "answer": 3,
+    "explanation": "Solanum, Panthera, Homo are examples of generic names."
   },
   {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In plants, growth by cell division is seen only up to a certain stage.",
-    "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
-    "choice3": "A multicellular organism grows by cell division.",
-    "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
-    "answer": "1",
-    "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
+    "question": "Which of the following does not come under taxon?",
+    "choice1": "Species",
+    "choice2": "Kingdom",
+    "choice3": "Division",
+    "choice4": "Key",
+    "answer": 4,
+    "explanation": "Taxon is a group of one or more populations of organisms. Kingdom, division and species come under taxon but key is taxonomical aid"
   },
   {
-    "question": "Which of the following statement(s) is/are correct for Metabolism?",
-    "choice1": "It is the sum total of all physical reactions taking place inside a living system.",
-    "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
-    "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
-    "choice4": "All of the above",
-    "answer": "2",
-    "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
+    "question": "Related genera belongs to the same",
+    "choice1": "Species",
+    "choice2": "Family",
+    "choice3": "Variety",
+    "choice4": "Breed",
+    "answer": 2,
+    "explanation": "Family is a group of genera having some common properties. So, related genera belong to the same family."
   },
   {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In animals growth is seen up to a certain age.",
-    "choice2": "Increase in body mass is considered as growth.",
-    "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
-    "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
-    "answer": "3",
-    "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
+    "question": "The basic unit of classification is ",
+    "choice1": "Species",
+    "choice2": "Phylum",
+    "choice3": "Genus",
+    "choice4": "Family",
+    "answer": 1,
+    "explanation": "The basic unit of classification is species. Species are a population of organisms that can interbreed among themselves to produce new organisms"
   },
   {
-    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
-    "choice1": "Amoeba and Paramecium",
-    "choice2": "Fungi and filamentous algae",
-    "choice3": "Humans and Apes",
-    "choice4": "Mules and worker bees",
-    "answer": "4",
-    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+    "question": "A group of closely related classes is called",
+    "choice1": "Genus",
+    "choice2": "Phylum",
+    "choice3": "Family",
+    "choice4": "Order",
+    "answer": 2,
+    "explanation": "Genus comprises a group of related species. Family has a group of related genera, order has a group of related families"
+  },
+  {
+    "question": "What is true for individuals of the same species?",
+    "choice1": "Interbreeding",
+    "choice2": "Live in same habitat",
+    "choice3": "live in same niche",
+    "choice4": "None of these",
+    "answer": 1,
+    "explanation": "A species is  a group of individuals with similar characteristics and interbreed with another member of the same group to produce fertile offspring."
   }
 ]

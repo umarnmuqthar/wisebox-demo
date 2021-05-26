@@ -1,110 +1,164 @@
 [
   {
-    "question": "In the majority of higher animals and plants, _____ and _____ are mutually exclusive events.",
-    "choice1": "growth; nutrition",
-    "choice2": "nutrition; consciousness",
-    "choice3": "growth; reproduction",
-    "choice4": "reproduction; consciousness",
+    "question": "Which of the following terms is used to refer to the number of varieties of plants and animals on earth ?",
+    "choice1": "Taxonomy",
+    "choice2": "Identification",
+    "choice3": "Biodiversity",
+    "choice4": "Classification",
     "answer": 3,
-    "explanation": "Growth and reproduction are mutually exclusive events in the majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents."
+    "explanation": "The term biodiversity is used for the variety and variability among all forms of living organisms like plants, animals, and microorganisms present in a given region under natural conditions. Biodiversity can be defined as the totality of genes, species and ecosystem of a region. India is very rich in biodiversity."
   },
   {
-    "question": "In multicellular organisms _____ refers to the production of progeny possessing features more or less similar to those of parents.",
-    "choice1": "growth",
-    "choice2": "reproduction",
-    "choice3": "metabolism",
-    "choice4": "consciousness",
-    "answer": 2,
-    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction."
-  },
-  {
-    "question": "The sum total of all the chemical reactions occurring in our body is known as ",
-    "choice1": "metabolism",
-    "choice2": "growth",
-    "choice3": "regeneration",
-    "choice4": "reproduction",
+    "question": "ICBN stands for",
+    "choice1": "International Code of Botanical Nomenclature",
+    "choice2": "International Congress of Biological Names",
+    "choice3": "Indian Code of Botanical Nomenclature",
+    "choice4": "Indian Congress of Biological Names",
     "answer": 1,
-    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and the sum total of all such chemical reactions occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes."
+    "explanation": "ICBN (International Code of Botanical Nomenclature) is one of the codes of nomenclature which is independent of zoological and bacteriological nomenclature."
   },
   {
-    "question": "Cell division occurs _______ in plants and _______ in animals.",
-    "choice1": "continuously, only up to a certain age",
-    "choice2": "only up to a certain age, continuously",
-    "choice3": "continuously, never",
-    "choice4": "once, twice",
-    "answer": "1",
-    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
+    "question": "Binomial nomenclature means ",
+    "choice1": "one name given by two scientists.",
+    "choice2": "one scientific name consisting of a generic and specific epithet.",
+    "choice3": "two names, one latinized, other of a person.",
+    "choice4": "two names of the same plant.",
+    "answer": 2,
+    "explanation": "Binomial nomenclature means that the scientific name of any organism consists of a generic epithet and a specific epithet. Binomial nomenclature was developed by Linnaeus."
   },
   {
-    "question": "Which of the following are unique features of living organisms?",
-    "choice1": "Growth and reproduction",
-    "choice2": "Reproduction and ability to sense environment",
-    "choice3": "Metabolism and interaction",
+    "question": "Systematics refers to the",
+    "choice1": "identification and classification of plants and animals.",
+    "choice2": "nomenclature and identification of plants and animals.",
+    "choice3": "diversity of kinds of organisms and the irrelationship.",
+    "choice4": "different kinds of organisms and their classification.",
+    "answer": 3,
+    "explanation": "Systematics, often used interchangeably with taxonomy, is the study of diversity of organisms, their comparative and evolutionary relationships on the basis of findings from various fields of biology."
+  },
+  {
+    "question": "The practical purpose of classification of living organisms is to",
+    "choice1": "explain the origin of living organisms.",
+    "choice2": "trace the evolution of living organisms.",
+    "choice3": "name the living organisms.",
+    "choice4": "facilitate identification of unknown organisms.",
+    "answer": 4,
+    "explanation": "Biological classification is the scientific arrangement of organisms in a hierarchical series of groups and subgroups on the basis of similarities and differences in their traits. It helps in building evolutionary pathways and in identifying new organisms."
+  },
+  {
+    "question": "In printed scientific names, only the ______ is capitalized.",
+    "choice1": "class",
+    "choice2": "species",
+    "choice3": "genus",
+    "choice4": "family",
+    "answer": 3,
+    "explanation": "In printed scientific names, only the genus is capitalized. Genus is an assembly of related species which evolved from a common ancestor and have certain common characteristics. Eg, Solanum tuberosum and Solanum melongena are two species which belong to the same genus of Solanum."
+  },
+  {
+    "question": "Which of the following statements regarding nomenclature is correct?",
+    "choice1": "Generic name always begins with capital letter whereas specific name with small letter.",
+    "choice2": "Scientific name should be printed in italics.",
+    "choice3": "Scientific names when typed or handwritten should be underlined.",
     "choice4": "All of the above",
-    "answer": "4",
-    "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
+    "answer": 4,
+    "explanation": "All the statements regarding nomenclature are correct. Nomenclature is giving distinct scientific names to various structures including living organisms for their identification. It is a set of rules used for forming the names or terms in a particular field of arts or sciences. Nomenclature is only possible when the organism is described correctly and we know what organisms the name is attached to."
   },
   {
-    "question": "Which of the following aspects is an exclusive characteristic of living things?",
-    "choice1": "Isolated metabolic reactions occur in vitro.",
-    "choice2": "Increase in mass from inside only.",
-    "choice3": "Perception of events happening in the environment and their memory.",
-    "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
-    "answer": "3",
-    "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
-  },
-  {
-    "question": "Which of the following is not a characteristic of life?",
-    "choice1": "Reproduction",
-    "choice2": "Complex chemical organization",
-    "choice3": "Adaptation to environmental changes",
-    "choice4": "Differentiation from cells to tissues",
-    "answer": "4",
-    "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
-  },
-  {
-    "question": "Which of the following statement(s) is/are correct?",
-    "choice1": "Only living organisms grow.",
-    "choice2": "Plants grow only up to a certain age.",
-    "choice3": "The growth in living organisms is from inside.",
+    "question": "Which one of the following statements is correct about biodiversity ?",
+    "choice1": "It is the occurrence of varied types of organisms on earth.",
+    "choice2": "Each different kind of plant, animal or organism represents a species.",
+    "choice3": "The number of species that are known and described range between 1.7–1.8million.",
     "choice4": "All of the above",
-    "answer": "3",
-    "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
+    "answer": 4,
+    "explanation": "Biodiversity is the term used to describe the variety of life found on Earth and all of the natural processes. This includes ecosystem, genetic and cultural diversity, and the connections between these and all species. The different aspects of biodiversity all have a very strong influence on each other."
   },
   {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In plants, growth by cell division is seen only up to a certain stage.",
-    "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
-    "choice3": "A multicellular organism grows by cell division.",
-    "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
-    "answer": "1",
-    "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
+    "question": "Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus",
+    "choice1": "Mangifera <i>indica</i> Car. Linn.",
+    "choice2": "<i>Mangifera indica</i> Linn.",
+    "choice3": "<i>Mangifera indica</i>",
+    "choice4": "Mangifera <i>Indica</i>",
+    "answer": 2,
+    "explanation": "According to rules of binomial nomenclature, the correctly written  scientific name of mango is <i>Mangifera indica</i> Linn."
   },
   {
-    "question": "Which of the following statement(s) is/are correct for Metabolism?",
-    "choice1": "It is the sum total of all physical reactions taking place inside a living system.",
-    "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
-    "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
-    "choice4": "All of the above",
-    "answer": "2",
-    "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
+    "question": "<i>Musca domestica</i> is common name of",
+    "choice1": "Housefly",
+    "choice2": "Mosquito",
+    "choice3": "Snail",
+    "choice4": "Ant",
+    "answer": 1,
+    "explanation": "<i>Musca domestica</i> is the common name of housefly."
   },
   {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In animals growth is seen up to a certain age.",
-    "choice2": "Increase in body mass is considered as growth.",
-    "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
-    "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
-    "answer": "3",
-    "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
+    "question": "Scientific name of plants are given by",
+    "choice1": "International code for Botanical nomenclature",
+    "choice2": "International code for biological plants",
+    "choice3": "Indian code for Botanical nomenclature",
+    "choice4": "International code for zoological nomenclature",
+    "answer": 1,
+    "explanation": "The scientific names of plants are given by International code for Botanical nomenclature."
   },
   {
-    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
-    "choice1": "Amoeba and Paramecium",
-    "choice2": "Fungi and filamentous algae",
-    "choice3": "Humans and Apes",
-    "choice4": "Mules and worker bees",
-    "answer": "4",
-    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+    "question": "Systematics deals with",
+    "choice1": "AmoeNomenclature of new organismsba and Paramecium",
+    "choice2": "Evolutionary relationship between organisms",
+    "choice3": "Identification of newly discovered organisms",
+    "choice4": "All of these",
+    "answer": 4,
+    "explanation": "Linnaeus used Systema Naturae as the title of his publication.The scope of systematics includes identification, nomenclature and classification. Systematics takes into account evolutionary relationships between organisms."
+  },
+  {
+    "question": "Given below is the scientific name of Frog. Identify the correctly written name.",
+    "choice1": "Rana Tigrina",
+    "choice2": "<i>Rana tigrina</i>",
+    "choice3": "<i>rana tigrina</i>",
+    "choice4": "RANA TIGRINA",
+    "answer":2,
+    "explanation":"Generic name starts with a capital letter and specific name starts with a small letter."
+  },
+  {
+    "question": "ICZN stands for",
+    "choice1": "International code of Botanical Nomenclature",
+    "choice2": "International code of Zoological Nomenclature",
+    "choice3": "international code of Viral Nomenclature",
+    "choice4": "International code of Zoo Nomenclature",
+    "answer":2,
+    "explanation":"The International Code of Zoological Nomenclature(ICZN) is a widely accepted convention in zoology that rules the formal scientific naming of animals."
+  },
+  {
+    "question": "In <i>Mangifera indica</i> L. Generic epithet is",
+    "choice1": "Indica",
+    "choice2": "Mangifera",
+    "choice3": "Linnaeus",
+    "choice4": "None of these",
+    "answer":2,
+    "explanation":"The generic name refers to the first part of a binomial. The binomial name consists of the generic name and the specific epithet. Accordingly, the generic name is the genus of the species and is written by starting with a capitalized letter. As the binomial name of mango is <i>'Mangifera indica'</i> where <i>'Mangifera'</i> represents genus, hence it is the generic name and <i>'indica'</i> represents specific epithet."
+  },
+  {
+    "question": "Binomial nomenclature was introduced by",
+    "choice1": "Linnaeus",
+    "choice2": "Darwin",
+    "choice3": "Aristotle",
+    "choice4": "deCandoile",
+    "answer":1,
+    "explanation":"Binomial nomenclature is the system of scientifically naming organisms developed by Carl Linnaeus."
+  },
+  {
+    "question": "Most names in biological nomenclature of living organisms are taken from which language?",
+    "choice1": "Latin",
+    "choice2": "French",
+    "choice3": "Hindi",
+    "choice4": "German",
+    "answer":1,
+    "explanation":"The original scientific names were taken from Latin and Greek languages. New names are now derived either from Latin language or are latinised. This is because Latin language is dead and therefore, it will not change in form or spellings with the passage of time."
+  },
+  {
+    "question": "Animal taxonomists have named the animals according to",
+    "choice1": "International code for zoological nomenclature",
+    "choice2": "International classification for zoological nomenclature",
+    "choice3": "Indian code for zoological nomenclature",
+    "choice4": "International class for zoological nomenclature",
+    "answer":1,
+    "explanation":"Animal taxonomists have named the animals according to the International Code for Zoological Nomenclature (ICZN)."
   }
 ]

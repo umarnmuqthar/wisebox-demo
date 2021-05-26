@@ -32,7 +32,7 @@
     "choice2": "only up to a certain age, continuously",
     "choice3": "continuously, never",
     "choice4": "once, twice",
-    "answer": "1",
+    "answer": 1,
     "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
   },
   {
@@ -41,7 +41,7 @@
     "choice2": "Reproduction and ability to sense environment",
     "choice3": "Metabolism and interaction",
     "choice4": "All of the above",
-    "answer": "4",
+    "answer": 4,
     "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
   },
   {
@@ -50,7 +50,7 @@
     "choice2": "Increase in mass from inside only.",
     "choice3": "Perception of events happening in the environment and their memory.",
     "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
-    "answer": "3",
+    "answer": 3,
     "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
   },
   {
@@ -59,7 +59,7 @@
     "choice2": "Complex chemical organization",
     "choice3": "Adaptation to environmental changes",
     "choice4": "Differentiation from cells to tissues",
-    "answer": "4",
+    "answer": 4,
     "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
   },
   {
@@ -68,7 +68,7 @@
     "choice2": "Plants grow only up to a certain age.",
     "choice3": "The growth in living organisms is from inside.",
     "choice4": "All of the above",
-    "answer": "3",
+    "answer": 3,
     "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
   },
   {
@@ -77,7 +77,7 @@
     "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
     "choice3": "A multicellular organism grows by cell division.",
     "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
-    "answer": "1",
+    "answer": 1,
     "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
   },
   {
@@ -86,7 +86,7 @@
     "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
     "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
     "choice4": "All of the above",
-    "answer": "2",
+    "answer": 2,
     "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
   },
   {
@@ -95,7 +95,7 @@
     "choice2": "Increase in body mass is considered as growth.",
     "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
     "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
-    "answer": "3",
+    "answer": 3,
     "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
   },
   {
@@ -104,7 +104,7 @@
     "choice2": "Fungi and filamentous algae",
     "choice3": "Humans and Apes",
     "choice4": "Mules and worker bees",
-    "answer": "4",
+    "answer": 4,
     "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
   }
 ]

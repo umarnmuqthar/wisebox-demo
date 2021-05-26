@@ -167,7 +167,7 @@ function answerValidation() {
   }
   choiceExplanationArray.forEach((element) => {
     if (element.dataset['number'] == currentQuestion.answer) {
-      element.innerText = currentQuestion.explanation;
+      element.innerHTML = currentQuestion.explanation;
     }
   });
 
@@ -213,14 +213,13 @@ function setNextQuestion() {
 function showQuestion() {
   // const questionIndex = Math.floor(Math.random() * availableQuestions.length);
   currentQuestion = availableQuestions[0];
-  question.innerText = currentQuestion.question;
+  question.innerHTML = currentQuestion.question;
 
   choices.forEach((choice) => {
     const number = choice.dataset['number'];
-    choice.innerText = currentQuestion['choice' + number];
+    choice.innerHTML = currentQuestion['choice' + number];
   });
-  availableQuestions.splice(0, 1);
-  console.log(availableQuestions);
+  availableQuestions.splice(0, 1);  
 }
 
 submitBtn.addEventListener('click', answerValidation);
