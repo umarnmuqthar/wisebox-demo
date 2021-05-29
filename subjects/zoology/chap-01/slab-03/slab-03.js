@@ -97,7 +97,7 @@ let availableQuestions = [];
 // for progressBar
 let questionCounter = 0;
 
-const MAX_QUESTIONS = 10;
+const MAX_QUESTIONS = 5;
 let questions = [];
 
 //////////////////////////JSON//////////////////////////////////////////////////////////////////////
@@ -119,7 +119,7 @@ fetch('./slab-03.json')
 
 function startGame() {
   questionCounter = 0;
-  availableQuestions = questions.slice(0, 10);
+  availableQuestions = questions.slice(0, 5);
   showQuestion();
   quizHeader.classList.remove('hidden');
   questionSection.classList.remove('hidden');
@@ -185,7 +185,7 @@ function answerValidation() {
 function setNextQuestion() {
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     //go to the end page
-    return window.location.assign('./end.html');
+    return window.location.assign('./end-03.html');
   }
   showQuestion();
 

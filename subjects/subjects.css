@@ -87,3 +87,10 @@
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+
+/* disabled slabs */
+.disabled-slabs .slabs{
+  background: grey;
+  color: #000;
+}
