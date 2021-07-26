@@ -97,7 +97,7 @@ let availableQuestions = [];
 // for progressBar
 let questionCounter = 0;
 
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 6;
 let questions = [];
 
 //////////////////////////JSON//////////////////////////////////////////////////////////////////////
@@ -118,13 +118,14 @@ fetch('./slab-01.json')
 //////////////////////////////////////AVAILABLE-QUESTIONS/////////////////////////////////////
 
 function startGame() {
-  questionCounter = 0;
+  questionCounter = 1;
   availableQuestions = questions.slice(0, 5);
   showQuestion();
   quizHeader.classList.remove('hidden');
   questionSection.classList.remove('hidden');
   answersSection.classList.remove('hidden');
   loader.style.display = 'none';
+  progressBar.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 }
 
 choices.forEach((choice) => {
@@ -219,10 +220,9 @@ function showQuestion() {
     const number = choice.dataset['number'];
     choice.innerHTML = currentQuestion['choice' + number];
   });
-  availableQuestions.splice(0, 1);  
+  availableQuestions.splice(0, 1);
+  console.log(availableQuestions);
 }
 
 submitBtn.addEventListener('click', answerValidation);
 nextBtn.addEventListener('click', setNextQuestion);
-
-
