@@ -1,24 +1,24 @@
 [
   {
-    "question": "In the majority of higher animals and plants, _____ and _____ are mutually exclusive events.",
-    "choice1": "growth; nutrition",
-    "choice2": "nutrition; consciousness",
-    "choice3": "growth; reproduction",
-    "choice4": "reproduction; consciousness",
-    "answer": 3,
-    "explanation": "Growth and reproduction are mutually exclusive events in the majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents."
+    "question": "Can you please choose the duration of the Medival Period.",
+    "choice1": "5CE - 15CE",
+    "choice2": "15CE - 50CE",
+    "choice3": "5BC - 15BC",
+    "choice4": "25BC - 34BC",
+    "answer": 1,
+    "explanation": "The duration of the Medival period was from fifth century to fifteenth century CE. Eventhough the political structure of the medival period was similar, the term Medival period was not refered as the same period all over the world."
   },
   {
-    "question": "In multicellular organisms _____ refers to the production of progeny possessing features more or less similar to those of parents.",
-    "choice1": "growth",
-    "choice2": "reproduction",
-    "choice3": "metabolism",
-    "choice4": "consciousness",
+    "question": "Which of these was the largest ancient empire?",
+    "choice1": "The Chinese",
+    "choice2": "The Roman",
+    "choice3": "The Arab",
+    "choice4": "The Mongol",
     "answer": 2,
-    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction."
+    "explanation": "Among the ancient empires The Roman empire was the largest empire."
   },
   {
-    "question": "The sum total of all the chemical reactions occurring in our body is known as ",
+    "question": "",
     "choice1": "metabolism",
     "choice2": "growth",
     "choice3": "regeneration",
