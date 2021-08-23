@@ -1,0 +1,110 @@
+[
+  {
+    "question": "In the majority of higher animals and plants, _____ and _____ are mutually exclusive events.",
+    "choice1": "growth; nutrition",
+    "choice2": "nutrition; consciousness",
+    "choice3": "growth; reproduction",
+    "choice4": "reproduction; consciousness",
+    "answer": 3,
+    "explanation": "Growth and reproduction are mutually exclusive events in the majority of the higher animals and plants. Growth may be defined as a positive change in size, often over a period of time. Growth can occur as a stage of maturation or a process toward fullness or fulfillment. Reproduction may be defined as the production of progeny possessing features more or less similar to those of parents."
+  },
+  {
+    "question": "In multicellular organisms _____ refers to the production of progeny possessing features more or less similar to those of parents.",
+    "choice1": "growth",
+    "choice2": "reproduction",
+    "choice3": "metabolism",
+    "choice4": "consciousness",
+    "answer": 2,
+    "explanation": "Reproduction ensures the continuity of the species, generation after generation. Genetic variation is created and inherited during reproduction."
+  },
+  {
+    "question": "The sum total of all the chemical reactions occurring in our body is known as ",
+    "choice1": "metabolism",
+    "choice2": "growth",
+    "choice3": "regeneration",
+    "choice4": "reproduction",
+    "answer": 1,
+    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and the sum total of all such chemical reactions occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes."
+  },
+  {
+    "question": "Cell division occurs _______ in plants and _______ in animals.",
+    "choice1": "continuously, only up to a certain age",
+    "choice2": "only up to a certain age, continuously",
+    "choice3": "continuously, never",
+    "choice4": "once, twice",
+    "answer": 1,
+    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
+  },
+  {
+    "question": "Which of the following are unique features of living organisms?",
+    "choice1": "Growth and reproduction",
+    "choice2": "Reproduction and ability to sense environment",
+    "choice3": "Metabolism and interaction",
+    "choice4": "All of the above",
+    "answer": 4,
+    "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
+  },
+  {
+    "question": "Which of the following aspects is an exclusive characteristic of living things?",
+    "choice1": "Isolated metabolic reactions occur in vitro.",
+    "choice2": "Increase in mass from inside only.",
+    "choice3": "Perception of events happening in the environment and their memory.",
+    "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
+    "answer": 3,
+    "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
+  },
+  {
+    "question": "Which of the following is not a characteristic of life?",
+    "choice1": "Reproduction",
+    "choice2": "Complex chemical organization",
+    "choice3": "Adaptation to environmental changes",
+    "choice4": "Differentiation from cells to tissues",
+    "answer": 4,
+    "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
+  },
+  {
+    "question": "Which of the following statement(s) is/are correct?",
+    "choice1": "Only living organisms grow.",
+    "choice2": "Plants grow only up to a certain age.",
+    "choice3": "The growth in living organisms is from inside.",
+    "choice4": "All of the above",
+    "answer": 3,
+    "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
+  },
+  {
+    "question": "Which of the following statements regarding growth is incorrect?",
+    "choice1": "In plants, growth by cell division is seen only up to a certain stage.",
+    "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
+    "choice3": "A multicellular organism grows by cell division.",
+    "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
+    "answer": 1,
+    "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
+  },
+  {
+    "question": "Which of the following statement(s) is/are correct for Metabolism?",
+    "choice1": "It is the sum total of all physical reactions taking place inside a living system.",
+    "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
+    "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
+    "choice4": "All of the above",
+    "answer": 2,
+    "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
+  },
+  {
+    "question": "Which of the following statements regarding growth is incorrect?",
+    "choice1": "In animals growth is seen up to a certain age.",
+    "choice2": "Increase in body mass is considered as growth.",
+    "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
+    "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
+    "answer": 3,
+    "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
+  },
+  {
+    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
+    "choice1": "Amoeba and Paramecium",
+    "choice2": "Fungi and filamentous algae",
+    "choice3": "Humans and Apes",
+    "choice4": "Mules and worker bees",
+    "answer": 4,
+    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+  }
+]
