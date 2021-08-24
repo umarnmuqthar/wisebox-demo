@@ -32,7 +32,7 @@
 }
 .progress-bar {
   border-radius: 500px;
-  background: linear-gradient(to right, #f53577, #b71c1c);
+  background: linear-gradient(to right, #2cd4e4, #0c6bcc);
   width: 0%;
 }
 
@@ -67,7 +67,7 @@ h4 {
 
 .choice-prefix {
   /* padding: 1.5rem 2.5rem; */
-  color: #b71c1c;
+  color: #0c6bcc;
   margin: auto 0.5rem;
 }
 .choice-text {
@@ -108,7 +108,7 @@ h4 {
   font-size: 1.5rem;
   color: #fff;
   border-radius: 500px;
-  background: linear-gradient(to right, #f53577, #b71c1c);
+  background: linear-gradient(to right, #2cd4e4, #0c6bcc);
   display: none;
 }
 
@@ -141,10 +141,10 @@ h4 {
   font-size: 1.3rem;
   font-weight: 500;
   text-decoration: underline;
-  color: #b71c1c;
+  color: #0c6bcc;
 }
 .close-link:hover {
-  color: #f53577;
+  color: #2cd4e4;
   text-decoration: underline;
 }
 
@@ -199,7 +199,7 @@ a:hover {
   height: 10rem;
   border-radius: 100%;
 
-  background: linear-gradient(#b71c1c, #f53577);
+  background: linear-gradient(#0c6bcc, #2cd4e4);
   -webkit-animation: loader 1.5s linear infinite;
   animation: loader 1.5s linear infinite;
 }
@@ -207,6 +207,9 @@ a:hover {
   animation-delay: -0.9s;
   -webkit-animation-delay: -0.9s;
 }
+
+
+
 @keyframes loader {
   0% {
     transform: scale(0, 0);
