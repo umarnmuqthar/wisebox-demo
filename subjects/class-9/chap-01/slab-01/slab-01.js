@@ -97,7 +97,7 @@ let availableQuestions = [];
 // for progressBar
 let questionCounter = 0;
 
-const MAX_QUESTIONS = 6;
+const MAX_QUESTIONS = 8;
 let questions = [];
 
 //////////////////////////JSON//////////////////////////////////////////////////////////////////////
@@ -119,7 +119,8 @@ fetch('./slab-01.json')
 
 function startGame() {
   questionCounter = 1;
-  availableQuestions = questions.slice(0, 5);
+  availableQuestions = questions.slice(0, 7);
+  console.log(availableQuestions);
   showQuestion();
   quizHeader.classList.remove('hidden');
   questionSection.classList.remove('hidden');

@@ -208,7 +208,9 @@ a:hover {
   -webkit-animation-delay: -0.9s;
 }
 
-
+.highlighted-text-slab {    
+  color: #0c6bcc;
+}
 
 @keyframes loader {
   0% {
