@@ -10,10 +10,10 @@
   },
   {
     "question": "Which of these was the largest ancient empire?",
-    "choice1": "The Chinese",
-    "choice2": "The Roman",
-    "choice3": "The Arab",
-    "choice4": "The Mongol",
+    "choice1": "The Chinese Empire",
+    "choice2": "The Roman Empire",
+    "choice3": "The Frankish Empire",
+    "choice4": "The Mongol Empire",
     "answer": 2,
     "explanation": "Among the ancient empires The Roman empire was the largest empire."
   },
@@ -24,7 +24,7 @@
     "choice3": "regeneration",
     "choice4": "reproduction",
     "answer": 1,
-    "explanation": "All living organisms are continuously making or breaking biomolecules, such conversions are due to chemical reactions, and the sum total of all such chemical reactions occurring in the body is called metabolism. Each metabolic pathway in the cell is tightly regulated by enzymes."
+    "explanation": ""
   },
   {
     "question": "Cell division occurs _______ in plants and _______ in animals.",
@@ -97,6 +97,15 @@
     "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
     "answer": 3,
     "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
+  },
+  {
+    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
+    "choice1": "Amoeba and Paramecium",
+    "choice2": "Fungi and filamentous algae",
+    "choice3": "Humans and Apes",
+    "choice4": "Mules and worker bees",
+    "answer": 4,
+    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
   },
   {
     "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
