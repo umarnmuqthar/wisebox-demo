@@ -1,11 +1,11 @@
 [
   {
-    "question": "Can you please choose the duration of the Medival Period.",
-    "choice1": "5CE - 15CE",
-    "choice2": "15CE - 50CE",
-    "choice3": "5BC - 15BC",
-    "choice4": "25BC - 34BC",
-    "answer": 1,
+    "question": "The duration of Medieval Period was from ___ Century C.E to ___ Century C.E.",
+    "choice1": "4th, 8th",
+    "choice2": "10th, 20th",
+    "choice3": "5th, 15th",
+    "choice4": "4th, 15th",
+    "answer": 3,
     "explanation": "The duration of the Medival period was from fifth century to fifteenth century CE. Eventhough the political structure of the medival period was similar, the term Medival period was not refered as the same period all over the world."
   },
   {
@@ -18,102 +18,84 @@
     "explanation": "Among the ancient empires The Roman empire was the largest empire."
   },
   {
-    "question": "",
-    "choice1": "metabolism",
-    "choice2": "growth",
-    "choice3": "regeneration",
-    "choice4": "reproduction",
+    "question": "Who divided the Roman Empire into 2 in the 4th Century C.E?",
+    "choice1": "Justinian",
+    "choice2": "Diocletian",
+    "choice3": "Sulaiman",
+    "choice4": "Charlemagne",
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Which of these was the capital of Eastern Roman Empire?",
+    "choice1": "Constantinople",
+    "choice2": "Rome",
+    "choice3": "Damascus",
+    "choice4": "Timbuktu",
     "answer": 1,
     "explanation": ""
   },
   {
-    "question": "Cell division occurs _______ in plants and _______ in animals.",
-    "choice1": "continuously, only up to a certain age",
-    "choice2": "only up to a certain age, continuously",
-    "choice3": "continuously, never",
-    "choice4": "once, twice",
-    "answer": 1,
-    "explanation": "All cells arise from pre-existing cells by a process of cell division. Cell division is the phenomenon of production of daughter cells from parent cells. It occurs continuously in plants and only up to a certain age in animals."
-  },
-  {
-    "question": "Which of the following are unique features of living organisms?",
-    "choice1": "Growth and reproduction",
-    "choice2": "Reproduction and ability to sense environment",
-    "choice3": "Metabolism and interaction",
-    "choice4": "All of the above",
-    "answer": 4,
-    "explanation": "All living beings share certain unified and basic characteristics. These include organisation, energy utilization, regulation or homeostasis, growth, development, reproduction and adaptation."
-  },
-  {
-    "question": "Which of the following aspects is an exclusive characteristic of living things?",
-    "choice1": "Isolated metabolic reactions occur in vitro.",
-    "choice2": "Increase in mass from inside only.",
-    "choice3": "Perception of events happening in the environment and their memory.",
-    "choice4": "Increase in mass by accumulation of material both on surface as well as internally.",
-    "answer": 3,
-    "explanation": "All living things have an ability to respond to their environment, that is also called stimulation."
-  },
-  {
-    "question": "Which of the following is not a characteristic of life?",
-    "choice1": "Reproduction",
-    "choice2": "Complex chemical organization",
-    "choice3": "Adaptation to environmental changes",
-    "choice4": "Differentiation from cells to tissues",
-    "answer": 4,
-    "explanation": "The characteristics of life include: responsiveness to the environment; growth and change; ability to reproduce; have a metabolism and breathe; maintain homeostasis; being made of cells; passing traits onto offspring. Differentiation from cells to tissues is not a characteristic of life."
-  },
-  {
-    "question": "Which of the following statement(s) is/are correct?",
-    "choice1": "Only living organisms grow.",
-    "choice2": "Plants grow only up to a certain age.",
-    "choice3": "The growth in living organisms is from inside.",
-    "choice4": "All of the above",
-    "answer": 3,
-    "explanation": "Growth is the act or process, or a manner of growing; development; gradual increase. It is an exclusive event in the majority of the higher animals and plants. In plants, growth occurs continuously throughout their life span and in animals; growth is seen only up to a certain age. In living organisms, growth is from inside. Therefore, it cannot be taken as a defining property of living organisms."
-  },
-  {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In plants, growth by cell division is seen only up to a certain stage.",
-    "choice2": "Growth exhibited by non-living objects is by accumulation of material on the surface.",
-    "choice3": "A multicellular organism grows by cell division.",
-    "choice4": "Growth in invitro culture of unicellular organisms can be observed by counting the number of cells.",
-    "answer": 1,
-    "explanation": "In plants, growth by cell division occurs continuously throughout their life span."
-  },
-  {
-    "question": "Which of the following statement(s) is/are correct for Metabolism?",
-    "choice1": "It is the sum total of all physical reactions taking place inside a living system.",
-    "choice2": "All plants, animals, fungi and microbes exhibit metabolism.",
-    "choice3": "Isolated metabolic reactions in-vitro are not  living things but are living reactions.",
-    "choice4": "All of the above",
+    "question": "Constantinople was also known as ________",
+    "choice1": "Baghdad",
+    "choice2": "Byzantium",
+    "choice3": "Mecca",
+    "choice4": "Siberia",
     "answer": 2,
-    "explanation": "Metabolism is defined as the sum total of all the chemical reactions occurring in our body. All plants, animals, fungi and microbes exhibit metabolism. Isolated metabolic reactions in vitro are not living things but are living reactions."
+    "explanation": ""
   },
   {
-    "question": "Which of the following statements regarding growth is incorrect?",
-    "choice1": "In animals growth is seen up to a certain age.",
-    "choice2": "Increase in body mass is considered as growth.",
-    "choice3": "Growth by cell division occurs continuously throughout their life span in animals.",
-    "choice4": "Increase in mass and number of individuals is the characteristic feature of animal growth.",
+    "question": "'History will judiciously forget the wars of Justinian and remember him for his laws.'  -whose words are these?",
+    "choice1": "St. Augustine",
+    "choice2": "Ibn Khaldun",
+    "choice3": "Will Durant",
+    "choice4": "Kalhana",
     "answer": 3,
-    "explanation": "Growth may be defined as a positive change in size, often over a period of time. It can occur as a stage of maturation or a process toward fullness or fulfillment. Growth by cell division occurs continuously throughout their life"
+    "explanation": ""
   },
   {
-    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
-    "choice1": "Amoeba and Paramecium",
-    "choice2": "Fungi and filamentous algae",
-    "choice3": "Humans and Apes",
-    "choice4": "Mules and worker bees",
-    "answer": 4,
-    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+    "question": "What was the Code of Law made by Justinian?",
+    "choice1": "Corpus Juris Civilis",
+    "choice2": "Republic",
+    "choice3": "Democracy",
+    "choice4": "Sociare Corpus",
+    "answer": 1,
+    "explanation": ""
   },
   {
-    "question": "Reproduction is the characteristic feature of living organisms. Which of the following can not reproduce?",
-    "choice1": "Amoeba and Paramecium",
-    "choice2": "Fungi and filamentous algae",
-    "choice3": "Humans and Apes",
-    "choice4": "Mules and worker bees",
+    "question": "Who codified the code of law,'Corpus Juris Civilis'?",
+    "choice1": "Sulaiman",
+    "choice2": "Diocletian",
+    "choice3": "Charlemagne",
+    "choice4": "Justinian",
     "answer": 4,
-    "explanation": "There are many organisms such as worker bees, mules, infertile human couples that cannot reproduce."
+    "explanation": ""
+  },
+  {
+    "question": "What was 'Corpus Juris Civilis' based on?",
+    "choice1": "Reasoning, Justice, and generosity",
+    "choice2": "",
+    "choice3": "",
+    "choice4": "",
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "question": "Which French ruler adopted the Justinian's code of laws for administration?",
+    "choice1": "Henty IV",
+    "choice2": "Napolean",
+    "choice3": "Louis XIV",
+    "choice4": "Charlemagne",
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "question": "Who captured Constantinople in the 15th Century C.E which led to the decline of Eastern Roman Empire?",
+    "choice1": "The Arabs",
+    "choice2": "The Mongols",
+    "choice3": "The Turks",
+    "choice4": "The Chinese",
+    "answer": 3,
+    "explanation": ""
   }
 ]
