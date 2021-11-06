@@ -166,10 +166,12 @@ a:hover {
   transition: transform 150ms;
 }
 .correct {
-  border: 2px solid #2adb33;
+  border: 3px solid #2adb33;
+  /* box-shadow: 2px 2px 10px #4bec46; */
+  /* background-color: #8bf590; */
 }
 .incorrect {
-  border: 2px solid #e82323;
+  border: 3px solid #e82323;
 }
 .hidden {
   display: none;
